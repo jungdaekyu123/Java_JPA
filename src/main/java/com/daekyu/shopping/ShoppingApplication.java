@@ -10,6 +10,7 @@ public class ShoppingApplication {
 		SpringApplication.run(ShoppingApplication.class, args);
 		
 		// git 연동 확인
+		// 시작 : 2024/09/10
 	}
 
 }
